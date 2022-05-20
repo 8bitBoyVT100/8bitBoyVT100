@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @8bitBoyVT100
+- 👋 Hi, I’m @8bitBoy
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning Javascript
 
